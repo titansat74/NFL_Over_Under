@@ -24,7 +24,9 @@ Notebook to generate dataframes:**
 ## 4. Modeling ##
 **The feature set was trained on four regression models (Ordinary Least Squares, Ridge, Random Forest, and XGBoost) with recursive feature elimination and hyperparameter tuning used to optimize the models. A description of the metrics used in the analysis can be found [here](https://github.com/titansat74/NFL_Over_Under/blob/main/docs/NFL_Over_Under%20Metrics.pdf). Random Forest yielded the best results with 37 features. No one feature was dominant in any of the models; however, features involving offensive passing, particularly that of the visiting team, were consistently among the most important features.**
 ![](https://github.com/titansat74/NFL_Over_Under/blob/main/README_files/Table2.png)
-**dkfjdkfjl**
+
+**To further optimize the Random Forest results, threshold tuning was performed to determine which subset of games should be wagered to maximize betting efficiency. A threshold of -1 for the Under and +2 Over was found to be most optimal.**
+![](https://github.com/titansat74/NFL_Over_Under/blob/main/README_files/fig20.png)
 
 ## 5. Summary ##
 
