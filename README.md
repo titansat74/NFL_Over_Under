@@ -19,7 +19,9 @@ Notebook to generate dataframes:**
 
 ## 3. Exploratory Data Analysis ##
 **dkfjdlkfj**
+
 ![](https://github.com/titansat74/NFL_Over_Under/blob/main/README_files/fig7.png)
+
 **Notebook for exploratory data analysis:**
 > * [EDA Notebook](https://github.com/titansat74/NFL_Over_Under/blob/main/notebooks/nfl_eda.ipynb)
 
