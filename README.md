@@ -50,4 +50,4 @@
 **This study can be improved in the future with the following considerations:**
 > * **More recent data are available for implementation into the model**
 > * **Evolution of features over time can be considered in a time series treatment of the problem**
-> * **Varying the bet size through threshold tuning can provide further model optimization**
+> * **Varying the bet size in threshold tuning can provide further model optimization**
