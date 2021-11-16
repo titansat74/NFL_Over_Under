@@ -19,8 +19,11 @@ Notebook to generate dataframes:**
 
 ## 3. Exploratory Data Analysis ##
 **In comparing the Total Score with the O/U values posted by the sportsbooks, both are found to exhibit a normal distribution but with Total Score revealing a much larger range. Large errors between Total Score and O/U reside mainly to the upside. One of the main findings of this analysis is that the Over has a significantly higher winning percentage in the first ten weeks of the season than in the last seven weeks.**
+
 ![](https://github.com/titansat74/NFL_Over_Under/blob/main/README_files/fig7.png)
+
 **The decline in Total Points later in the season, which corresponds to the reduction in Over winning percentage, seems to be directly related to the cecline in passing yardage, which accompanies the decrease in temperature as the season progresses.**
+
 **Notebook for exploratory data analysis:**
 > * [EDA Notebook](https://github.com/titansat74/NFL_Over_Under/blob/main/notebooks/nfl_eda.ipynb)
 
