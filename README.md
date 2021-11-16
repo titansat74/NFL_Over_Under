@@ -36,6 +36,15 @@ Notebook to generate dataframes:**
 > * [Modeling Notebook](https://github.com/titansat74/NFL_Over_Under/blob/main/notebooks/nfl_modeling.ipynb)
 
 ## 5. Summary ##
+**The major finding of this study are as follows:
+> * There is no one dominant feature guiding the prediction of total score, but passing yards is consistently the most important single statistic
+> * Passing yardage is significantly affected by temperature, which is not adequately considered in the determination of the Over/Under
+> * Wind is also a significant factor in total score output
+> * The most important defensive feature is visiting defense red-zone percentage
+> * The Random Forest model with 37 features is the most optimal model, yielding a seasonal return of 42% for the test set upon application of threshold tuning
 
 ## 6. Future Work ##
-
+**This study can be improved in the future with the following considerations:
+> * More recent data are available for implementation into the model
+> * Evolution of features over time can be considered in a time series treatment of the problem
+> * Varying the bet size through threshold tuning can provide further model optimization
