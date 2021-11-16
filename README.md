@@ -20,6 +20,8 @@ Notebook to generate dataframes:**
 ## 3. Exploratory Data Analysis ##
 **dkfjdlkfj**
 ![](https://github.com/titansat74/NFL_Over_Under/blob/main/README_files/fig7.png)
+**Notebook for exploratory data analysis:**
+> * [EDA Notebook](https://github.com/titansat74/NFL_Over_Under/blob/main/notebooks/nfl_eda.ipynb)
 
 ## 4. Modeling ##
 **The feature set was trained on four regression models (Ordinary Least Squares, Ridge, Random Forest, and XGBoost) with recursive feature elimination and hyperparameter tuning used to optimize the models. A description of the metrics used in the analysis can be found [here](https://github.com/titansat74/NFL_Over_Under/blob/main/docs/NFL_Over_Under%20Metrics.pdf). Random Forest yielded the best results with 37 features. No one feature was dominant in any of the models; however, features involving offensive passing, particularly that of the visiting team, were consistently among the most important features.**
