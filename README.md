@@ -5,8 +5,9 @@
 > * [Google Sheets Presentation](https://github.com/titansat74/NFL_Over_Under/blob/main/docs/NFL%20Over_Under%20Presentation.pdf)
 
 ## 1. Raw Data ##
-**Data from 2559 NFL contests were scraped from the [Pro Football Reference](https://www.pro-football-reference.com/) website using the [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) package. To predict the total score of a contest, game statistics of the teams involved were averaged over the previous five games. These statistics, involving scoring, passing, rushing, special teams, and defense, were combined with data on game conditions to provide a feature space for prediction.
-Notebook to acquire data:**
+**Data from 2559 NFL contests were scraped from the [Pro Football Reference](https://www.pro-football-reference.com/) website using the [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) package. To predict the total score of a contest, game statistics of the teams involved were averaged over the previous five games. These statistics, involving scoring, passing, rushing, special teams, and defense, were combined with data on game conditions to provide a feature space for prediction.**
+
+**Notebook to acquire data:**
 > * [Scraper Notebook](https://github.com/titansat74/NFL_Over_Under/blob/main/notebooks/nfl_scraper.ipynb)
 
 ## 2. Data Processing ##
