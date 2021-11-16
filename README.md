@@ -17,3 +17,9 @@ Notebook to generate dataframes:**
 
 ## 3. Exploratory Data Analysis ##
 
+## 4. Modeling ##
+
+## 5. Summary ##
+
+## 6. Future Work ##
+
