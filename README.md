@@ -22,7 +22,7 @@ Notebook to generate dataframes:**
 
 ![](https://github.com/titansat74/NFL_Over_Under/blob/main/README_files/fig7.png)
 
-**The decline in Total Points later in the season, which corresponds to the reduction in Over winning percentage, seems to be directly related to the decline in passing yardage, which accompanies the decrease in temperature as the season progresses.**
+**The decline in Total Points later in the season, which corresponds to the reduction in Over winning percentage, seems to be directly related to the decline in passing yardage, which accompanies a decrease in temperature as the season progresses.**
 
 **Notebook for exploratory data analysis:**
 > * [EDA Notebook](https://github.com/titansat74/NFL_Over_Under/blob/main/notebooks/nfl_eda.ipynb)
