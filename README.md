@@ -8,7 +8,7 @@ Notebook to acquire data:**
 > * [Scraper Notebook](https://github.com/titansat74/NFL_Over_Under/blob/main/notebooks/nfl_scraper.ipynb)
 > 
 ## 2. Data Processing ##
-**The raw data were processed into dataframes used for analysis and prediction. A total of 48 features comprises the feature space.
+**The raw data were processed into dataframes used for analysis and prediction. A total of 48 features comprise the feature space.
 Notebook to generate dataframes:**
 > * [Generator Notebook](https://github.com/titansat74/NFL_Over_Under/blob/main/notebooks/nfl_generator.ipynb)
 
