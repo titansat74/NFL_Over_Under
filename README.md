@@ -28,6 +28,9 @@ Notebook to generate dataframes:**
 **To further optimize the Random Forest results, threshold tuning was performed to determine which subset of games should be wagered to maximize betting efficiency. A threshold of -1 for the Under and +2 Over was found to be most optimal.**
 ![](https://github.com/titansat74/NFL_Over_Under/blob/main/README_files/fig20.png)
 
+**Notebook for modeling analysis:**
+> * [Modeling Notebook](https://github.com/titansat74/NFL_Over_Under/blob/main/notebooks/nfl_modeling.ipynb)
+
 ## 5. Summary ##
 
 ## 6. Future Work ##
