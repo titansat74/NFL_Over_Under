@@ -23,7 +23,7 @@ Notebook to generate dataframes:**
 
 ## 4. Modeling ##
 **Here is a table.**
-![](https://github.com/titansat74/NFL_Over_Under/blob/main/README_files/Table2.pdf)
+![](https://github.com/titansat74/NFL_Over_Under/blob/main/README_files/Table2.png)
 
 ## 5. Summary ##
 
