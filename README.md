@@ -18,8 +18,11 @@ Notebook to generate dataframes:**
 > * [Feature List](https://github.com/titansat74/NFL_Over_Under/blob/main/docs/NFL%20Over_Under%20Features.pdf)
 
 ## 3. Exploratory Data Analysis ##
-
+**dkfjdlkfj**
+![](https://github.com/titansat74/NFL_Over_Under/blob/main/README_files/fig7.png)
 ## 4. Modeling ##
+**dfjdkfj**
+![](https://github.com/titansat74/NFL_Over_Under/blob/main/README_files/NFL_Over_Under_Table2.pdf)
 
 ## 5. Summary ##
 
